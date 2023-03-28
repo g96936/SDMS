@@ -16,6 +16,7 @@
 
 5.Adjust Maven in Settings
   Maven home path: Bundled(Maven 3)
+  
   If you change the Maven warehouse address yourself, please modify the User settings file and Local repository separately. Otherwise, default
 
 6.Refresh maven configuration in pom.xml
@@ -24,6 +25,7 @@
 7.Configuration information
   src -> main -> resources -> application.yml 
   driver-class-name: com.mysql.jdbc.Driver
+  
   Note: The version above MySQL 8 is: com.mysql.cj.jdbc.Driver
   Enter the user name and password of your own server
 
