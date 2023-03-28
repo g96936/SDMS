@@ -1,7 +1,7 @@
 # operation
-1.Enable MySQL service
+**1.Enable MySQL service**
 
-2.Navicat New Database
+**2.Navicat New Database**
 
    Character Set utf8
   
@@ -11,9 +11,9 @@
   
    Refresh the sheet to extract data
 
-3.Idea Open Project
+**3.Idea Open Project**
 
-4.Adjust Project structure
+**4.Adjust Project structure**
 
    sdk: Java version 1.8 
   
@@ -21,17 +21,17 @@
   
    modules dependencies: project SDK 1.8
 
-5.Adjust Maven in Settings
+**5.Adjust Maven in Settings**
 
    Maven home path: Bundled(Maven 3)
   
    If you change the Maven warehouse address yourself, please modify the User settings file and Local repository separately. Otherwise, default
 
-6.Refresh maven configuration in pom.xml
+**6.Refresh maven configuration in pom.xml**
 
    Process: Right click ->maven ->reload project
 
-7.Configuration information
+**7.Configuration information**
 
    src -> main -> resources -> application.yml 
   
@@ -41,6 +41,6 @@
   
    Enter the user name and password of your own server
 
-8.Open the browser for input after running the program successfully    
+**8.Open the browser for input after running the program successfully**    
 
    http://localhost:8080/index.html Can login to the system
