@@ -28,4 +28,4 @@
   Enter the user name and password of your own server
 
 8.Open the browser for input after running the program successfully    
-  http://localhost:8080/index.html Can log in to the system
+  http://localhost:8080/index.html Can login to the system
